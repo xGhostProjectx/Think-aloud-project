@@ -1,3 +1,12 @@
+"""
+Name:    first_pygame.py
+Author:  Jesse Bunnell
+Created: 11/15/2023
+Purpose: Follow the https://youtu.be/jO6qQDNa2UY?si=ColD9ZetFHbh6dT4 video to set up my first pygame
+"""
+
+
+
 import pygame
 import os
 pygame.font.init()
